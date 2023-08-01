@@ -165,3 +165,13 @@ body:
       label: Device model
       description: What device you are experiencing this problem on? Specify full device name along with the version of the operating system it's running.
       placeholder: ex. Samsung Galaxy A22 (Android 12)
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: I searched for similar issues in the repository.
+      options:
+        -label: 'Yes'
+    validations:
+      required: true
