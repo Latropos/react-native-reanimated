@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-        $${\color{lightblue}Light \space Blue}$$	
+        ${\color{lightblue}Light \space Blue}$	
         Before you proceed:
 
         - Make sure to check whether there are similar issues in the repository
@@ -51,7 +51,7 @@ body:
       label: Steps to reproduce
       description: |
        How to reproduce your issue? 
-       > $${\color{orange}Warn}$$	
+       > ${\color{orange} \b \text{Warn}}$$
        > It's a common mistake to provide instructions how to run the provided repository, without telling us what to do with the app once we run it.
       placeholder: |
         1. Clone my repo & run the app
