@@ -15,6 +15,9 @@ body:
           - `yarn start --reset-cache` or
           - `npm start -- --reset-cache` or
           - `expo start --clear`
+          
+        > **Warning**
+        > It's a common mistake to provide instructions how to run the provided repository, without telling us what to do with the app once we run it.
 
   - type: markdown
     attributes:
