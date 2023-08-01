@@ -172,6 +172,5 @@ body:
       label: Acknowledgements
       description: I searched for similar issues in the repository.
       options:
-        -label: 'Yes'
-    validations:
-      required: true
+        - label: 'Yes'
+        required: true
