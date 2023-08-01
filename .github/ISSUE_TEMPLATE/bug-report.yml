@@ -51,7 +51,7 @@ body:
       label: Steps to reproduce
       description: |
        How to reproduce your issue? 
-       > ${\color{orange} \b \text{Warn}}$$
+       >  ${\color{orange}\Large \text{Warn}}$ ⚠️
        > It's a common mistake to provide instructions how to run the provided repository, without telling us what to do with the app once we run it.
       placeholder: |
         1. Clone my repo & run the app
