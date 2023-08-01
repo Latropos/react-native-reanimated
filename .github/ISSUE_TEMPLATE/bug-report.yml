@@ -173,4 +173,4 @@ body:
       description: I searched for similar issues in the repository.
       options:
         - label: 'Yes'
-        required: true
+          required: true
